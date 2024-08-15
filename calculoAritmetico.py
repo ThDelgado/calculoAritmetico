@@ -13,3 +13,4 @@ print("La suma es: " ,sum)
 
 
 #Thelma Delgado operacion aritmetica ejercicio comprobacion m3s3
+#concepto basico de python
